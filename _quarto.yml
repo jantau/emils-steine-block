@@ -10,7 +10,7 @@ website:
       - icon: github
         href: https://github.com/
   page-footer:
-    left: "🧱 Blog mit ❤️ und [Quarto](https://quarto.org/) gebaut von Emil und Jan"
+    left: "🧱 Blog mit ❤️ gebaut von Emil und Jan"
 
 format:
   html:
