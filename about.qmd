@@ -10,3 +10,7 @@ about:
 ---
 
 Hier werden von mir selbsgebaute Gegenstände präsentiert.
+
+Meine Sammlung:
+
+{{< video https://youtu.be/eCPB37L41Oc >}}
