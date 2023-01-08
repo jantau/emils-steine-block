@@ -5,7 +5,7 @@ date: "8. Januar 2023"
 categories: [selbstgebaut]
 ---
 
-Der Fahrzeugschlepper wird von einem Roboter gesteuert und sammelt herumliegende Fahrradäder uns Skateboards auf.
+Der Fahrzeugschlepper wird von einem Roboter gesteuert und sammelt herumliegende Fahrradäder und Skateboards auf.
 
 ![](IMG_3303%20Small.png){width="600"}
 
