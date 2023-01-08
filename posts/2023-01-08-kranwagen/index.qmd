@@ -1,0 +1,18 @@
+---
+title: "Kranwagen"
+author: "Emil Taubitz"
+date: "8. Januar 2023"
+categories: [selbstgebaut]
+---
+
+Der Kranwagen kann bis zu 5t Last heben.
+
+![](IMG_3313%20Small.png){width="600"}
+
+![](IMG_3314%20Small.png){width="600"}
+
+Er wird von zwei Kranführern bedient.
+
+![](IMG_3316%20Small.png){width="600"}
+
+![](IMG_3324%20Small.png){width="600"}

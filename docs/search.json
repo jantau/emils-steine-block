@@ -1,7 +1,14 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
+    "objectID": "posts/2023-01-08-kranwagen/index.html",
+    "href": "posts/2023-01-08-kranwagen/index.html",
+    "title": "Kranwagen",
+    "section": "",
+    "text": "Der Kranwagen kann bis zu 5t Last heben.\n\n\nEr wird von zwei Kranführern bedient."
+  },
+  {
+    "objectID": "posts/2023-01-08-fahrzeugschlepper/index.html",
+    "href": "posts/2023-01-08-fahrzeugschlepper/index.html",
     "title": "Fahrzeugschlepper",
     "section": "",
     "text": "Der Fahrzeugschlepper wird von einem Roboter gesteuert und sammelt herumliegende Fahrräder und Skateboards auf.\n\nWeil er ein Roboter ist, weiß er, zu wem jeder Gegenstand gehört. Er bringt sie zu den Eigentümern nach Hause. Mit seiner Hand kann er Schlösser knacken und so die Gegenstände abliefern.\n\n\n\n\n\n\nEr kann kleine Fahrzeuge mit Ketten abschleppen."
@@ -11,7 +18,7 @@
     "href": "index.html",
     "title": "Emils Steine Block",
     "section": "",
-    "text": "Fahrzeugschlepper\n\n\n\n\n\n\n\nselbstgebaut\n\n\n\n\n\n\n\n\n\n\n\nJan 8, 2023\n\n\nEmil Taubitz\n\n\n\n\n\n\nNo matching items"
+    "text": "Kranwagen\n\n\n\n\n\n\n\nselbstgebaut\n\n\n\n\n\n\n\n\n\n\n\nJan 8, 2023\n\n\nEmil Taubitz\n\n\n\n\n\n\n  \n\n\n\n\nFahrzeugschlepper\n\n\n\n\n\n\n\nselbstgebaut\n\n\n\n\n\n\n\n\n\n\n\nJan 8, 2023\n\n\nEmil Taubitz\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
