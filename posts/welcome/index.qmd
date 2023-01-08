@@ -5,11 +5,11 @@ date: "8. Januar 2023"
 categories: [selbstgebaut]
 ---
 
-Der Fahrzeugschlepper wird von einem Roboter gesteuert und sammelt herumliegende Fahrradäder und Skateboards auf.
+Der Fahrzeugschlepper wird von einem Roboter gesteuert und sammelt herumliegende Fahrräder und Skateboards auf.
 
 ![](IMG_3303%20Small.png){width="600"}
 
-Weil er ein Roboter, weiß er, zu wem jeder Gegenstand gehört. Er bringt sie zu den Eigentümern nach Hause. Mit seiner Hand kann er Schlösser knacken und so die Gegenstände abliefern.
+Weil er ein Roboter ist, weiß er, zu wem jeder Gegenstand gehört. Er bringt sie zu den Eigentümern nach Hause. Mit seiner Hand kann er Schlösser knacken und so die Gegenstände abliefern.
 
 ![](IMG_3302%20Small.png){width="600"}
 
