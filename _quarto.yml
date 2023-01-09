@@ -12,6 +12,8 @@ website:
   page-footer:
     left: "🧱 Blog mit ❤️ gebaut von Emil und Jan"
 
+lang: de
+
 format:
   html:
     theme: yeti

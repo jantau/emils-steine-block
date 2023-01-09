@@ -1,6 +1,6 @@
 ---
 title: "Kranwagen"
-author: "Emil Taubitz"
+author: "Emil"
 date: "8. Januar 2023"
 categories: [selbstgebaut]
 ---
