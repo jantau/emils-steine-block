@@ -13,8 +13,6 @@ Weil er ein Roboter ist, weiß er, zu wem jeder Gegenstand gehört. Er bringt si
 
 ![](IMG_3302%20Small.png){width="600"}
 
-![](IMG_3306%20Small.png){fig-align="left" width="600"}
-
 Er kann kleine Fahrzeuge mit Ketten abschleppen.
 
 ![](IMG_3306%20Small.png){width="600"}
