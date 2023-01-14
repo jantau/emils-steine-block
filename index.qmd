@@ -12,5 +12,6 @@ title-block-banner: true
 ---
 
 ```{r}
-# quarto render
+#| include: true
+# quarto render in terminal
 ```
