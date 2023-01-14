@@ -9,9 +9,6 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: true
----
-
-```{r}
-#| include: true
+# #| echo: true
 # quarto render in terminal
-```
+---
