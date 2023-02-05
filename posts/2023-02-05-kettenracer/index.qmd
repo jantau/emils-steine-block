@@ -1,0 +1,20 @@
+---
+title: "Kettenracer"
+author: "Emil"
+date: "05. Februar 2023"
+categories: [selbstgebaut, Technic]
+---
+
+Der Kettenracer ist sehr, sehr schnell. Deshalb braucht er hinten 4 Stützräder. Außerdem ist er ferngesteuert.
+
+![](IMG_3409.png){width="600"}
+
+![](IMG_3413.png){width="600"}
+
+![](IMG_3415.png){width="600"}
+
+![](IMG_3416.png){width="600"}
+
+![](IMG_3422.png){width="600"}
+
+![](IMG_3424.png){width="600"}
