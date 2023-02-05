@@ -1,5 +1,5 @@
 ---
-title: "Das Crazy Car"
+title: "Crazy Car"
 author: "Emil"
 date: "05. Februar 2023"
 categories: [selbstgebaut]

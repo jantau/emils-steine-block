@@ -1,5 +1,5 @@
 ---
-title: "Das Silvester Car"
+title: "Silvester Car"
 author: "Emil"
 date: "16. Januar 2023"
 categories: [selbstgebaut]
