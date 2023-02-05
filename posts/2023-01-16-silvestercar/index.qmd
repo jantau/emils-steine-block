@@ -1,0 +1,16 @@
+---
+title: "Das Silvester Car"
+author: "Emil"
+date: "16. Januar 2023"
+categories: [selbstgebaut]
+---
+
+Das Silwester Car hat 6 Silwester Raketen und einen Straler
+
+![](IMG_3354%20Small.png){width="600"}
+
+![](IMG_3355%20Small.png){width="600"}
+
+![](IMG_3356%20Small.png){width="600"}
+
+![](IMG_3359%20Small.png){width="600"}

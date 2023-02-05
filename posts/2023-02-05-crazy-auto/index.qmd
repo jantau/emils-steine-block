@@ -1,0 +1,16 @@
+---
+title: "Das Crazy Car"
+author: "Emil"
+date: "05. Februar 2023"
+categories: [selbstgebaut]
+---
+
+Das Crazy Auto fert am meisten ohne farer nur selten fert es mit Fahrer.
+
+![](IMG_3360%20Small.png){width="600"}
+
+![](IMG_3361%20Small.png){width="600"}
+
+![](IMG_3364%20Small.png){width="600"}
+
+![](IMG_3365%20Small.png){width="600"}
