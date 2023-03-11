@@ -1,0 +1,49 @@
+---
+title: "Track Racer"
+author: "Emil"
+date: "11. March 2023"
+categories: [Rennwagen]
+image: feature_IMG_3527.png
+---
+
+Der Wagen ist ein 8-Zylinder mit Kompressoraufladung. Den Frontspoiler braucht er um bei 350 km/h auf der Straße zu bleiben.
+
+```{r}
+#| echo: false
+#| results: asis
+
+library(tidyverse)
+plots <- list.files(pattern = "*.png", full.names = TRUE)
+#plots <- list.files("./posts/2023-03-11-trackracer", pattern = "*.png", full.names = TRUE)
+
+
+plots <- plots |>
+  str_extract("IMG_.*")
+
+for(i in plots){
+  filename <- file.path(i)
+  cat("![](",filename,"){width='600'}<br><br>", sep = "")
+
+}
+
+```
+
+
+```{r}
+#| echo: false
+#| eval: false
+
+library(tidyverse)
+# List files in the folder
+old_files <- list.files("./posts/2023-03-11-trackracer", pattern = "*.png", full.names = TRUE)
+
+# Create vector of new files
+new_files <- old_files |>
+  str_remove(" Medium")
+
+# Copy from old files to new files
+file.copy(from = old_files, to = new_files)
+
+# Clear out old filed
+file.remove(old_files)
+```

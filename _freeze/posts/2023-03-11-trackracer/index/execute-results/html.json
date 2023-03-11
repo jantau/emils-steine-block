@@ -1,0 +1,14 @@
+{
+  "hash": "1a368ef83e01c1722db05395581554f5",
+  "result": {
+    "markdown": "---\ntitle: \"Track Racer\"\nauthor: \"Emil\"\ndate: \"11. March 2023\"\ncategories: [Rennwagen]\nimage: feature_IMG_3527.png\n---\n\n\nDer Wagen ist ein 8-Zylinder mit Kompressoraufladung. Den Frontspoiler braucht er um bei 350 km/h auf der Straße zu bleiben.\n\n\n![](IMG_3527.png){width='600'}<br><br>![](IMG_3527.png){width='600'}<br><br>![](IMG_3529.png){width='600'}<br><br>![](IMG_3530.png){width='600'}<br><br>![](IMG_3531.png){width='600'}<br><br>![](IMG_3533.png){width='600'}<br><br>![](IMG_3535.png){width='600'}<br><br>![](IMG_3536.png){width='600'}<br><br>![](IMG_3537.png){width='600'}<br><br>![](IMG_3538.png){width='600'}<br><br>![](IMG_3539.png){width='600'}<br><br>![](IMG_3540.png){width='600'}<br><br>![](IMG_3541.png){width='600'}<br><br>\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
